@@ -1,6 +1,6 @@
 # AppQuiz-UIKit
 Um aplicativo simples feito com UIKit <br>
-![gif1](https://github.com/icaroliveira/AppQuiz-UIKit/assets/107810342/a7eb92d3-3a0a-4826-979f-048d5f0fddb2)
+https://github.com/icaroliveira/AppQuiz-UIKit/assets/107810342/a7eb92d3-3a0a-4826-979f-048d5f0fddb2
 # Tecnologias e Técnicas Utilizadas<br>
 - `Array`: Permite armazenar e manipular múltiplos valores em uma única variável. É possível adicionar, remover e modificar elementos no array, bem como percorrê-lo usando loops. 
 - `Func`: Servem para agrupar um conjunto de instruções relacionadas em um bloco de código reutilizável. Elas permitem modularizar o código, reutilizar lógica, passar parâmetros, retornar valores e tratar erros. As funções ajudam a organizar e simplificar o código, tornando-o mais legível, manutenível e eficiente. 
